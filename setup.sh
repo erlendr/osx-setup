@@ -8,6 +8,7 @@ defaults write NSGlobalDomain InitialKeyRepeat -int 12
 git config --global user.name "Erlend Røsjø"
 git config --global user.email "erlend@erlend.net"
 git config --global color.ui true
+git config --global push.default simple
 
 #Install Homebrew
 ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
