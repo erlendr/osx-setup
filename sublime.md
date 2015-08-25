@@ -1,5 +1,7 @@
 Packages
 --------
+##General
+- Editorconfig
 
 ###Theme
 - Oceanic Next Color Scheme
