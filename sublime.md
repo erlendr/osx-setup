@@ -1,6 +1,6 @@
 Packages
 --------
-##General
+###General
 - Editorconfig
 
 ###Theme
