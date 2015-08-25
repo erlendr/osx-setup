@@ -58,7 +58,7 @@ Settings
         "debug": false,
         "delay": 0.25,
         "error_color": "D02000",
-        "gutter_theme": "Packages/SublimeLinter/gutter-themes/Default/Default.gutter-theme",
+        "gutter_theme": "Packages/SublimeLinter/gutter-themes/Circle/Circle.gutter-theme",
         "gutter_theme_excludes": [],
         "lint_mode": "background",
         "linters": {
